@@ -93,7 +93,7 @@ Here is the full wiring diagram of the system:
 ## 🧪 License
 
 This project is open for educational and DIY use. Attribution appreciated.  
-Built with ❤️ by [Your Name / GitHub username]
+Built with ❤️ by Sandun Siwantha / https://github.com/Sandun-S
 
 ---
 
